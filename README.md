@@ -36,4 +36,4 @@ The code is available on GitHub at https://github.com/ramyapandian1987/Weather_M
 
 1.	Download the code and execute as shown below – 
 
-Python3 Motion_Detector.py
+Python3 Weather_monitor.py
